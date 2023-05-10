@@ -1,0 +1,32 @@
+.color-grey{
+    color: grey;
+}
+.top-row{
+    height: 250px;
+    width: 100%;
+}
+.bottom-row{
+    height: 300px;
+    width: 100%;
+}
+.bottom-right-row{
+    height: 148px;
+    width: 100%;
+}
+.star-rating{
+    display: inline-block;
+    height: 5px;
+    width: 30rem;
+    border: 1px solid #dddddd;
+    border-radius: 10px;
+    background-color: #f3eeee;
+    position: relative;
+    bottom: 2px;
+}
+.btn{
+    height: 50px;
+    width: 200px;
+    background-color: #ffffff;
+    border-radius: 35px;
+    border: 1px solid #aeadad;
+}
